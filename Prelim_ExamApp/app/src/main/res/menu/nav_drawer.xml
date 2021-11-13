@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/content2"
+        android:icon="@android:drawable/ic_input_get"
+        android:title="@string/Content" />
+    <item
+        android:id="@id/sendInquiries"
+        android:icon="@android:drawable/ic_menu_help"
+        android:title="Send Inquiries" />
+    <item
+        android:id="@id/newsFragment"
+        android:icon="@android:drawable/ic_menu_today"
+        android:title="News and Articles" />
+    <item
+        android:id="@+id/mapsActivity2"
+        android:icon="@android:drawable/ic_menu_mapmode"
+        android:title="User Location" />
+
+</menu>

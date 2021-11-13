@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Prelim_Exam App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about"> About</string>
+    <string name="FAQ"> FAQ</string>
+    <string name="Content"> Content</string>
+    <string name="Tip1"> Tip 1</string>
+    <string name="Tip2"> Tip 2</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
